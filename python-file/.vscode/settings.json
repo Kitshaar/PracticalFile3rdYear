@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.background": "#FFFFFF", // White background
+        "terminal.foreground": "#000000", // Black text
+        "terminalCursor.background": "#000000", // Black cursor background
+        "terminalCursor.foreground": "#000000" // Black cursor foreground
+    }
+}
